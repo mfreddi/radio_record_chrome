@@ -1,0 +1,39 @@
+﻿body{
+	padding: 0px;
+	margin: 0;
+}
+#result{
+	width: 300px;
+}
+ul{
+	padding: 0px;
+	margin: 0;
+}
+ul li{
+	border-bottom: 1px solid #ccc;
+	list-style-type: decimal;	
+	min-height: 30px;
+	overflow: hidden;
+	padding-left: 10px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+ul li span{
+	font-size: 11px;
+	display: block;
+}
+ul li span:first-child{
+	font-size: 13px;
+    font-weight: bold;
+}
+ul li .download{
+	float: right;
+	width: 50px;
+	height: 50px;
+	background: #FFAE00;
+	color: #fff;
+	display: block;
+	line-height: 50px;
+	text-align: center;
+	font-size: 16px;
+}

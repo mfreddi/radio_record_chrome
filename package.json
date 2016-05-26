@@ -1,0 +1,30 @@
+{
+  "name": "radio_record_chrome",
+  "version": "0.1.0",
+  "description": "При входе на страницы www.radiorecord.ru появляется список mp3 которые можно скачать ",
+  "main": "gulpfile.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-csso": "^2.0.0",
+    "gulp-uglify": "^1.5.3",
+    "rimraf": "^2.5.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mfreddi/radio_record_chrome.git"
+  },
+  "keywords": [
+    "radio",
+    "record"
+  ],
+  "author": "mfreddi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mfreddi/radio_record_chrome/issues"
+  },
+  "homepage": "https://github.com/mfreddi/radio_record_chrome#readme"
+}
